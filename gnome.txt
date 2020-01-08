@@ -1,0 +1,17 @@
+sudo apt-get install gnome-tweak-tool
+sudo apt-get install chrome-gnome-shell
+sudo apt install gnome-shell-extensions
+
+chrome-extension:
+    Dash to panel
+    Desktop icons
+    Draw on you screen
+    Tweak in system menu
+    Refresh wifi connections
+    User themes
+    Extensions
+	Alternatetab
+	Easyscreencast
+	Screenshot tool
+	trash
+	openweather

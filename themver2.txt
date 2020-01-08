@@ -1,0 +1,7 @@
+apdata theme
+sudo add-apt-repository ppa:tista/adapta
+sudo apt-get install adapta-gtk-theme
+
+paper icons
+sudo add-apt-repository -u ppa:snwh/ppa
+sudo apt-get install paper-icon-theme

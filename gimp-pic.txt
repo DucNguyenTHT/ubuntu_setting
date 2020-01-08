@@ -1,0 +1,11 @@
+
+ver 1
+sudo add-apt-repository ppa:otto-kesselgulasch/gimp
+sudo apt-get update
+sudo apt-get install gimp gimp-gmic gmic
+sudo apt-get install gimp-plugin-registry
+
+ver 2
+sudo add-apt-repository ppa:otto-kesselgulasch/gimp-edge
+sudo apt-get update
+sudo apt-get install gimp

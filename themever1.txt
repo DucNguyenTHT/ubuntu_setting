@@ -1,0 +1,5 @@
+sudo apt-get install adapta-gtk-theme
+
+paper icon
+sudo dpkg -i paper*.deb
+sudo apt install -f

@@ -1,0 +1,11 @@
+gotochange
+sudo nano /usr/share/gnome-shell/theme/Yaru/gnome-shell.css
+sudo gedit /usr/share/gnome-shell/theme/ubuntu.css
+
+changethis url
+#lockDialogGroup {
+   background: #2c001e url(file:///home/ducnguyen/loadubuntu/DWJ_kGIU8AEra0Z.jpg);
+   background-repeat: no-repeat; 
+   background-size: cover;
+   background-position: center;
+}

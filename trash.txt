@@ -1,0 +1,3 @@
+gsettings set org.gnome.nautilus.desktop trash-icon-visible false
+
+xoá icon trash khỏi màn hình máy tính
